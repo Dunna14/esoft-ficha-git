@@ -10,7 +10,9 @@ public class Experimental extends JFrame {
         panel = new JPanel(new GridLayout(1, 1));
         lblHelloWorld = new JLabel("Experiência");
         lblMesangem2 = new JLabel("eia");
+
         System.out.println("Olá");
+
 
         lblHelloWorld.setHorizontalAlignment(SwingConstants.CENTER);
         lblMesangem2.setHorizontalAlignment(SwingConstants.CENTER);
